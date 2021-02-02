@@ -1,0 +1,10 @@
+
+.bg-gradient-blue {
+    background-color: #2e21e8;
+    background-image: linear-gradient(315deg, #2e21e8 0%, #505dce 74%);
+}
+
+.bg-home-image {
+    background: url('https://www.williams.com/wp-content/uploads/sites/6/2020/05/solar-image-header.jpeg?w=2000&h=610&crop=1') no-repeat;
+    background-size: cover;
+}

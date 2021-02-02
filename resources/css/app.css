@@ -1,0 +1,8 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Custom Extra Styles */
+@import 'rig-manager.css';
+@import 'custom.css';
+@import 'style.css';
