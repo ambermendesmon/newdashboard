@@ -1,8 +1,8 @@
 # newdashboard
 # Install
-git clone 
-npm install
-npm run dev
+ git clone 
+ npm install
+ npm run dev
 modify .env wit database info
 php artisan migrate --seed
 php artisan storage:link
